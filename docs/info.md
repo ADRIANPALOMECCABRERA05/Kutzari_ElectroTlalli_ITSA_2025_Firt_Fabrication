@@ -13,7 +13,6 @@ The first 4 flip-flops are used as synchronizers. Four states are defined: Full,
 
 ## How to test
 
-(Due to technical issues, the search service is temporarily unavailable.)
 
 The system has **3 inputs**:  
 - **Clock**  
