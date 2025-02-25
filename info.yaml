@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     423825166200649729  # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     423825838774193153  # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Digital Cipher & Interlock System"      # Project title
   author:       "Adrian Palomec Cabrera"      # Your name
   discord:      "Kutzari_Electrotlalli_2025"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
